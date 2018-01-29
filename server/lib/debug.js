@@ -1,0 +1,1 @@
+module.exports = label => message => console.log(`debug:${label} ${message}`)

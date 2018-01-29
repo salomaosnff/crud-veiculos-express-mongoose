@@ -1,0 +1,12 @@
+{
+  "name": "teste-fullstack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "client": "cd client && npm run dev",
+    "server": "cd server && npm run dev",
+    "server:install" : "cd server && npm install",
+    "client:install" : "cd client && npm install"
+  }
+}
